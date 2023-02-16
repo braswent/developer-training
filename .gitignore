@@ -1,0 +1,7 @@
+.terraform*
+*.terraform
+terraform.tfstate
+service_key_create.sh
+test_script.sh
+terraform.tfstate.backup
+/.github/workflows/build_n_push.yaml
